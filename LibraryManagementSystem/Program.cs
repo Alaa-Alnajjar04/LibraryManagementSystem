@@ -9,7 +9,7 @@ using static LibraryManagementSystem.UsingFunction;
 BookService bookService = new BookService();
 
 string  TransactionChoice;
-
+int x;
 do
 {
     Console.Clear();
